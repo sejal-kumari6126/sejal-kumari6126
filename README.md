@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE Student | Full-Stack Developer | AI/ML Enthusiast</h3>
 
 # 💫 About Me:
-🎓 B.Tech CSE student passionate about Full-Stack Development and AI-powered applications.<br>💻 Building practical web applications using React, Node.js, Express.js, and PostgreSQL.<br>🌱 Currently learning Data Structures & Algorithms, AI/ML, and modern web technologies.<br>🚀 Interested in building real-world projects that combine software development and AI.<br>🎨 Creative Side: Graphic design, UI design, and visual content creation.<br><br>
+🎓 B.Tech CSE student passionate about Full-Stack Development and AI-powered applications.<br>💻 Building practical web applications using React, Node.js, Express.js, and PostgreSQL.<br>🌱 Currently learning Data Structures & Algorithms, AI/ML, and modern web technologies.<br>🚀 Interested in building real-world projects that combine software development and AI.<br>🎨 Creative Side: Graphic design, UI design, and visual content creation.
 
 
 ## 🌐 Socials:
